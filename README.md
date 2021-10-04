@@ -7,5 +7,5 @@ Computer Assignemnts consist of 3 assignments which the second one was related t
 
 The first computer assignment is an **implementation of the primary RSA system** , which is coded in **python**. 
 
-the third assignment's goal was to design an **OAuth** system via GitHub's servers granting **client credential** access through a simple login page writeten in HTML, which was itself coded in JavaScript. 
+the third assignment's goal was to design an **OAuth** system via GitHub's servers granting **client credential** access through a **simple login page** writeten in **HTML**, which was itself coded in **JavaScript**. 
 
