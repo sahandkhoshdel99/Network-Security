@@ -10,7 +10,4 @@ The first computer assignment is an **implementation of the primary RSA system**
 the third assignment's goal was to design an **OAuth** system via GitHub's servers granting **client credential** access through a **simple login page** writeten in **HTML**, which was itself coded in **JavaScript**. 
 
 
-## Analytical Assignemnts
-Analytical Assignments cover a wide variety of topics teached in the course. 
 
-### AA#1:
